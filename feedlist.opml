@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Comics" text="Comics" description="Comics" type="folder">
+      <outline title="bouletcorp" text="bouletcorp" description="bouletcorp" type="rss" xmlUrl="http://www.bouletcorp.com/feed/" htmlUrl="http://www.bouletcorp.com"/>
+      <outline title="Les petits riens" text="Les petits riens" description="Les petits riens" type="rss" xmlUrl="http://www.lewistrondheim.com/blog/rss/fil_rss.xml" htmlUrl="http://www.lewistrondheim.com/blog/index.php"/>
+      <outline title="Puntish" text="Puntish" description="Puntish" type="atom" xmlUrl="https://puntish.blogspot.com/feeds/posts/default" htmlUrl="https://puntish.blogspot.com/"/>
+      <outline title="Zep - What a wonderful world" text="Zep - What a wonderful world" description="Zep - What a wonderful world" type="rss" xmlUrl="https://www.lemonde.fr/blog/zepworld/feed/" htmlUrl="https://www.lemonde.fr/blog/zepworld"/>
+    </outline>
+    <outline title="Espace" text="Espace" description="Espace" type="folder">
+      <outline title="LESIA" text="LESIA" description="LESIA" type="folder">
+        <outline title="LESIA - Observatoire de Paris" text="LESIA - Observatoire de Paris" description="LESIA - Observatoire de Paris" type="rss" xmlUrl="https://lesia.obspm.fr/spip.php?page=backend" htmlUrl="https://lesia.obspm.fr/"/>
+        <outline title="Observatoire de Paris - PSL Centre de recherche en astronomie et astrophysique---" text="Observatoire de Paris - PSL Centre de recherche en astronomie et astrophysique---" description="Observatoire de Paris - PSL Centre de recherche en astronomie et astrophysique---" type="rss" xmlUrl="https://www.observatoiredeparis.psl.eu/spip.php?page=backend" htmlUrl="http://www.obspm.fr/"/>
+      </outline>
+      <outline title="Les derni&#xE8;res actualit&#xE9;s de Futura-Espace" text="Les derni&#xE8;res actualit&#xE9;s de Futura-Espace" description="Les derni&#xE8;res actualit&#xE9;s de Futura-Espace" type="rss" xmlUrl="https://www.futura-sciences.com/rss/espace/actualites.xml" htmlUrl="https://www.futura-sciences.com/magazines/espace/"/>
+      <outline title="Espace : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." text="Espace : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." description="Espace : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/espace/rss_full.xml" htmlUrl="https://www.lemonde.fr/espace/rss_full.xml"/>
+      <outline title="CNES - Actualit&#xE9;s" text="CNES - Actualit&#xE9;s" description="CNES - Actualit&#xE9;s" type="rss" xmlUrl="https://cnes.fr/fr/news/feed" htmlUrl="https://cnes.fr/fr"/>
+      <outline title="APOD : Astronomy Picture of the Day Fran&#xE7;ais" text="APOD : Astronomy Picture of the Day Fran&#xE7;ais" description="APOD : Astronomy Picture of the Day Fran&#xE7;ais" type="rss" xmlUrl="https://politepol.com/fd/84S4Q0UhW5dY" htmlUrl="https://www.apod.tv/"/>
+      <outline title="Webastro - Actualit&#xE9;s astronomiques et lancements spatiaux" text="Webastro - Actualit&#xE9;s astronomiques et lancements spatiaux" description="Webastro - Actualit&#xE9;s astronomiques et lancements spatiaux" type="rss" xmlUrl="https://politepol.com/fd/w1U5njqWrbWN" htmlUrl="https://www.webastro.net/actualites/"/>
+      <outline title="Agences Spatiales" text="Agences Spatiales" description="Agences Spatiales" type="rss" xmlUrl="https://www.agences-spatiales.fr/feed/" htmlUrl="https://www.agences-spatiales.fr"/>
+      <outline title="&#xC7;a se passe l&#xE0; haut..." text="&#xC7;a se passe l&#xE0; haut..." description="&#xC7;a se passe l&#xE0; haut..." type="atom" xmlUrl="https://www.ca-se-passe-la-haut.fr/feeds/posts/default" htmlUrl="https://www.ca-se-passe-la-haut.fr/"/>
+      <outline title="R&#xEA;ves d'Espace" text="R&#xEA;ves d'Espace" description="R&#xEA;ves d'Espace" type="rss" xmlUrl="https://reves-d-espace.com/feed/" htmlUrl="https://reves-d-espace.com"/>
+      <outline title="Mars la Blanche" text="Mars la Blanche" description="Mars la Blanche" type="rss" xmlUrl="https://marslablanche.com/feed/" htmlUrl="https://marslablanche.com"/>
+    </outline>
+    <outline title="Sciences &amp; techniques" text="Sciences &amp; techniques" description="Sciences &amp; techniques" type="folder">
+      <outline title="Futura-Sciences" text="Futura-Sciences" description="Futura-Sciences" type="folder">
+        <outline title="Les derni&#xE8;res actualit&#xE9;s de Futura-Environnement" text="Les derni&#xE8;res actualit&#xE9;s de Futura-Environnement" description="Les derni&#xE8;res actualit&#xE9;s de Futura-Environnement" type="rss" xmlUrl="https://www.futura-sciences.com/rss/environnement/actualites.xml" htmlUrl="https://www.futura-sciences.com/magazines/environnement/"/>
+        <outline title="Les derni&#xE8;res actualit&#xE9;s de Futura-Mati&#xE8;re" text="Les derni&#xE8;res actualit&#xE9;s de Futura-Mati&#xE8;re" description="Les derni&#xE8;res actualit&#xE9;s de Futura-Mati&#xE8;re" type="rss" xmlUrl="https://www.futura-sciences.com/rss/matiere/actualites.xml" htmlUrl="https://www.futura-sciences.com/magazines/matiere/"/>
+        <outline title="Les derni&#xE8;res actualit&#xE9;s de Futura-Nature" text="Les derni&#xE8;res actualit&#xE9;s de Futura-Nature" description="Les derni&#xE8;res actualit&#xE9;s de Futura-Nature" type="rss" xmlUrl="https://www.futura-sciences.com/rss/nature/actualites.xml" htmlUrl="https://www.futura-sciences.com/magazines/nature/"/>
+        <outline title="Les derni&#xE8;res actualit&#xE9;s de Futura-Terre" text="Les derni&#xE8;res actualit&#xE9;s de Futura-Terre" description="Les derni&#xE8;res actualit&#xE9;s de Futura-Terre" type="rss" xmlUrl="https://www.futura-sciences.com/rss/terre/actualites.xml" htmlUrl="https://www.futura-sciences.com/magazines/terre/"/>
+      </outline>
+      <outline title="Heidi News" text="Heidi News" description="Heidi News" type="folder">
+        <outline title="Heidi.news : Sciences" text="Heidi.news : Sciences" description="Heidi.news : Sciences" type="rss" xmlUrl="https://www.heidi.news/sciences.rss" htmlUrl="https://www.heidi.news/sciences"/>
+        <outline title="Heidi.news : Sant&#xE9;" text="Heidi.news : Sant&#xE9;" description="Heidi.news : Sant&#xE9;" type="rss" xmlUrl="https://www.heidi.news/sante.rss" htmlUrl="https://www.heidi.news/sante"/>
+      </outline>
+      <outline title="G&#xE9;n&#xE9;raliste" text="G&#xE9;n&#xE9;raliste" description="G&#xE9;n&#xE9;raliste" type="folder">
+        <outline title="Sciences - France Inter" text="Sciences - France Inter" description="Sciences - France Inter" type="rss" xmlUrl="https://www.franceinter.fr/rss/sciences.xml" htmlUrl="https://www.franceinter.fr/rss/sciences.xml"/>
+        <outline title="Sciences - France Culture" text="Sciences - France Culture" description="Sciences - France Culture" type="rss" xmlUrl="https://www.franceculture.fr/rss/sciences" htmlUrl="https://www.franceculture.fr/rss/sciences"/>
+        <outline title="Le Figaro - Sciences &amp; Environnement : actualit&#xE9; scientifique, &#xE9;cologie" text="Le Figaro - Sciences &amp; Environnement : actualit&#xE9; scientifique, &#xE9;cologie" description="Le Figaro - Sciences &amp; Environnement : actualit&#xE9; scientifique, &#xE9;cologie" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_sciences.xml" htmlUrl="http://www.lefigaro.fr"/>
+        <outline title="Sciences : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." text="Sciences : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." description="Sciences : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/sciences/rss_full.xml" htmlUrl="https://www.lemonde.fr/sciences/rss_full.xml"/>
+      </outline>
+      <outline title="La Vie des id&#xE9;es" text="La Vie des id&#xE9;es" description="La Vie des id&#xE9;es" type="rss" xmlUrl="https://laviedesidees.fr/spip.php?page=backend" htmlUrl="https://laviedesidees.fr/"/>
+      <outline title="larecherche.fr" text="larecherche.fr" description="larecherche.fr" type="rss" xmlUrl="https://www.larecherche.fr/rss.xml" htmlUrl="https://www.larecherche.fr"/>
+      <outline title="Pour la Science" text="Pour la Science" description="Pour la Science" type="rss" xmlUrl="https://www.pourlascience.fr/rss.xml" htmlUrl="https://www.pourlascience.fr"/>
+      <outline title="CNRS Le journal" text="CNRS Le journal" description="CNRS Le journal" type="rss" xmlUrl="https://lejournal.cnrs.fr/rss" htmlUrl="https://lejournal.cnrs.fr/"/>
+      <outline title="CEA - Les derni&#xE8;res actualit&#xE9;s du CEA" text="CEA - Les derni&#xE8;res actualit&#xE9;s du CEA" description="CEA - Les derni&#xE8;res actualit&#xE9;s du CEA" type="rss" xmlUrl="http://www.cea.fr/_layouts/15/i2i/web/ceasrchrss.ashx?pid=3748&amp;wid=g_9cac7691_a0b2_4e18_850e_0aeff2541696" htmlUrl="http://www.cea.fr/Pages/actualites.aspx"/>
+      <outline title="Fusion for Energy" text="Fusion for Energy" description="Fusion for Energy" type="rss" xmlUrl="https://fusionforenergy.europa.eu/feed/" htmlUrl="https://fusionforenergy.europa.eu"/>
+    </outline>
+    <outline title="Culture" text="Culture" description="Culture" type="folder">
+      <outline title="Musique" text="Musique" description="Musique" type="folder">
+        <outline title="Musiques : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." text="Musiques : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." description="Musiques : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/musiques/rss_full.xml" htmlUrl="https://www.lemonde.fr/musiques/rss_full.xml"/>
+        <outline title="Le Figaro - Musique : Actualit&#xE9; musicale" text="Le Figaro - Musique : Actualit&#xE9; musicale" description="Le Figaro - Musique : Actualit&#xE9; musicale" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_musique.xml" htmlUrl="http://www.lefigaro.fr"/>
+        <outline title="Musique - France Inter" text="Musique - France Inter" description="Musique - France Inter" type="rss" xmlUrl="https://www.franceinter.fr/rss/musique.xml" htmlUrl="https://www.franceinter.fr/rss/musique.xml"/>
+        <outline title="Musique - France Culture" text="Musique - France Culture" description="Musique - France Culture" type="rss" xmlUrl="https://www.franceculture.fr/rss/musique" htmlUrl="https://www.franceculture.fr/rss/musique"/>
+        <outline title="Hexagone" text="Hexagone" description="Hexagone" type="rss" xmlUrl="https://hexagone.me/feed/" htmlUrl="https://hexagone.me"/>
+        <outline title="Longueur d'Ondes" text="Longueur d'Ondes" description="Longueur d'Ondes" type="rss" xmlUrl="http://www.longueurdondes.com/feed/" htmlUrl="http://www.longueurdondes.com"/>
+        <outline title="NosEnchanteurs" text="NosEnchanteurs" description="NosEnchanteurs" type="rss" xmlUrl="http://www.nosenchanteurs.eu/index.php/feed/" htmlUrl="http://www.nosenchanteurs.eu"/>
+        <outline title="C'est d&#xE9;j&#xE0; &#xE7;a" text="C'est d&#xE9;j&#xE0; &#xE7;a" description="C'est d&#xE9;j&#xE0; &#xE7;a" type="rss" xmlUrl="http://chansonfrancaise.blogs.sudouest.fr/index.rss" htmlUrl="http://chansonfrancaise.blogs.sudouest.fr/"/>
+        <outline title="indiemusic" text="indiemusic" description="indiemusic" type="rss" xmlUrl="https://www.indiemusic.fr/feed/" htmlUrl="https://www.indiemusic.fr"/>
+      </outline>
+      <outline title="Jeux vid&#xE9;o" text="Jeux vid&#xE9;o" description="Jeux vid&#xE9;o" type="folder">
+        <outline title="Pixels : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." text="Pixels : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." description="Pixels : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml" htmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
+        <outline title="Gamekult - Jeux vid&#xE9;o PC et consoles: tout l'univers des joueurs" text="Gamekult - Jeux vid&#xE9;o PC et consoles: tout l'univers des joueurs" description="Gamekult - Jeux vid&#xE9;o PC et consoles: tout l'univers des joueurs" type="rss" xmlUrl="https://www.gamekult.com/feed.xml" htmlUrl="https://www.gamekult.com/"/>
+        <outline title="CanardPC.com" text="CanardPC.com" description="CanardPC.com" type="rss" xmlUrl="https://www.canardpc.com/rss.xml" htmlUrl="https://www.canardpc.com/"/>
+      </outline>
+      <outline title="Cin&#xE9;ma &amp; TV" text="Cin&#xE9;ma &amp; TV" description="Cin&#xE9;ma &amp; TV" type="folder">
+        <outline title="T&#xE9;l&#xE9;rama.fr : programme TV, s&#xE9;ries TV, films de la semaine, sorties sur Paris et toute l'actualit&#xE9; culturelle" text="T&#xE9;l&#xE9;rama.fr : programme TV, s&#xE9;ries TV, films de la semaine, sorties sur Paris et toute l'actualit&#xE9; culturelle" description="T&#xE9;l&#xE9;rama.fr : programme TV, s&#xE9;ries TV, films de la semaine, sorties sur Paris et toute l'actualit&#xE9; culturelle" type="rss" xmlUrl="https://www.telerama.fr/rss/une.xml" htmlUrl="https://www.telerama.fr/rss/une.xml"/>
+        <outline title="Cin&#xE9;ma - France Inter" text="Cin&#xE9;ma - France Inter" description="Cin&#xE9;ma - France Inter" type="rss" xmlUrl="https://www.franceinter.fr/rss/cinema.xml" htmlUrl="https://www.franceinter.fr/rss/cinema.xml"/>
+        <outline title="Cin&#xE9;ma - France Culture" text="Cin&#xE9;ma - France Culture" description="Cin&#xE9;ma - France Culture" type="rss" xmlUrl="https://www.franceculture.fr/rss/cinema" htmlUrl="https://www.franceculture.fr/rss/cinema"/>
+        <outline title="Cin&#xE9;ma : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." text="Cin&#xE9;ma : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." description="Cin&#xE9;ma : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/cinema/rss_full.xml" htmlUrl="https://www.lemonde.fr/cinema/rss_full.xml"/>
+        <outline title="Les Inrocks - cinema" text="Les Inrocks - cinema" description="Les Inrocks - cinema" type="rss" xmlUrl="https://www.lesinrocks.com/cinema/feed/" htmlUrl="https://www.lesinrocks.com/cinema/feed"/>
+        <outline title="Liberation - Cin&#xE9;ma" text="Liberation - Cin&#xE9;ma" description="Liberation - Cin&#xE9;ma" type="atom" xmlUrl="http://rss.liberation.fr/rss/58/" htmlUrl="https://www.liberation.fr/rss/58/"/>
+        <outline title="Liberation - Ecrans" text="Liberation - Ecrans" description="Liberation - Ecrans" type="atom" xmlUrl="http://rss.liberation.fr/rss/53/" htmlUrl="https://www.liberation.fr/rss/53/"/>
+        <outline title="Le Figaro - Cin&#xE9;ma : Les films &#xE0; l'affiche" text="Le Figaro - Cin&#xE9;ma : Les films &#xE0; l'affiche" description="Le Figaro - Cin&#xE9;ma : Les films &#xE0; l'affiche" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_cinema.xml" htmlUrl="http://www.lefigaro.fr"/>
+      </outline>
+      <outline title="Litt&#xE9;rature &amp; BD" text="Litt&#xE9;rature &amp; BD" description="Litt&#xE9;rature &amp; BD" type="folder">
+        <outline title="Litt&#xE9;rature - France Culture" text="Litt&#xE9;rature - France Culture" description="Litt&#xE9;rature - France Culture" type="rss" xmlUrl="https://www.franceculture.fr/rss/litterature" htmlUrl="https://www.franceculture.fr/rss/litterature"/>
+        <outline title="Livres - France Inter" text="Livres - France Inter" description="Livres - France Inter" type="rss" xmlUrl="https://www.franceinter.fr/rss/livres.xml" htmlUrl="https://www.franceinter.fr/rss/livres.xml"/>
+        <outline title="Livres : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." text="Livres : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." description="Livres : Toute l&#x2019;actualit&#xE9; sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/livres/rss_full.xml" htmlUrl="https://www.lemonde.fr/livres/rss_full.xml"/>
+        <outline title="Les Inrocks - livres" text="Les Inrocks - livres" description="Les Inrocks - livres" type="rss" xmlUrl="https://www.lesinrocks.com/livres/feed/" htmlUrl="https://www.lesinrocks.com/livres/feed"/>
+        <outline title="Le Figaro - Livres : Actualit&#xE9; de la litt&#xE9;rature" text="Le Figaro - Livres : Actualit&#xE9; de la litt&#xE9;rature" description="Le Figaro - Livres : Actualit&#xE9; de la litt&#xE9;rature" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_livres.xml" htmlUrl="http://www.lefigaro.fr"/>
+        <outline title="Liberation - Livres" text="Liberation - Livres" description="Liberation - Livres" type="atom" xmlUrl="http://rss.liberation.fr/rss/60/" htmlUrl="https://www.liberation.fr/rss/60/"/>
+        <outline title="Le culte d'Apophis" text="Le culte d'Apophis" description="Le culte d'Apophis" type="rss" xmlUrl="https://lecultedapophis.com/feed/" htmlUrl="https://lecultedapophis.com"/>
+        <outline title="ReS Futurae" text="ReS Futurae" description="ReS Futurae" type="rss" xmlUrl="https://resf.hypotheses.org/feed" htmlUrl="https://resf.hypotheses.org"/>
+        <outline title="Revue Solaris" text="Revue Solaris" description="Revue Solaris" type="rss" xmlUrl="https://www.revue-solaris.com/feed/" htmlUrl="https://www.revue-solaris.com"/>
+      </outline>
+      <outline title="Arr&#xEA;t sur Images - tous les contenus" text="Arr&#xEA;t sur Images - tous les contenus" description="Arr&#xEA;t sur Images - tous les contenus" type="rss" xmlUrl="http://www.arretsurimages.net/tous-les-contenus.rss" htmlUrl="https://www.arretsurimages.net/"/>
+      <outline title="We Culte ! &#x2013; Le Mag'Culture" text="We Culte ! &#x2013; Le Mag'Culture" description="We Culte ! &#x2013; Le Mag'Culture" type="rss" xmlUrl="https://www.weculte.com/feed/" htmlUrl="https://www.weculte.com"/>
+      <outline title="Culture et savoirs | L'Humanit&#xE9;" text="Culture et savoirs | L'Humanit&#xE9;" description="Culture et savoirs | L'Humanit&#xE9;" type="rss" xmlUrl="https://politepol.com/fd/cYtn3PYaCMES" htmlUrl="https://www.humanite.fr/culture"/>
+    </outline>
+    <outline title="Sciences humaines" text="Sciences humaines" description="Sciences humaines" type="folder">
+      <outline title="Sociologie - France Culture" text="Sociologie - France Culture" description="Sociologie - France Culture" type="rss" xmlUrl="https://www.franceculture.fr/rss/sociologie" htmlUrl="https://www.franceculture.fr/rss/sociologie"/>
+      <outline title="Philosophie - France Culture" text="Philosophie - France Culture" description="Philosophie - France Culture" type="rss" xmlUrl="https://www.franceculture.fr/rss/philosophie" htmlUrl="https://www.franceculture.fr/rss/philosophie"/>
+      <outline title="Histoire - France Culture" text="Histoire - France Culture" description="Histoire - France Culture" type="rss" xmlUrl="https://www.franceculture.fr/rss/histoire" htmlUrl="https://www.franceculture.fr/rss/histoire"/>
+      <outline title="France Inter - Histoire" text="France Inter - Histoire" description="France Inter - Histoire" type="rss" xmlUrl="https://www.franceinter.fr/rss/histoire.xml" htmlUrl="https://www.franceinter.fr/rss/histoire.xml"/>
+      <outline title="Le Figaro - Histoire" text="Le Figaro - Histoire" description="Le Figaro - Histoire" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_histoire.xml" htmlUrl="http://www.lefigaro.fr"/>
+      <outline title="Actuel Moyen &#xC2;ge" text="Actuel Moyen &#xC2;ge" description="Actuel Moyen &#xC2;ge" type="rss" xmlUrl="https://actuelmoyenage.wordpress.com/feed/" htmlUrl="https://actuelmoyenage.wordpress.com"/>
+    </outline>
+    <outline title="Pure players" text="Pure players" description="Pure players" type="folder">
+      <outline title="Le Bonbon" text="Le Bonbon" description="Le Bonbon" type="folder">
+        <outline title="Le Bonbon | News" text="Le Bonbon | News" description="Le Bonbon | News" type="rss" xmlUrl="https://politepol.com/fd/fYj88S08XRJA" htmlUrl="https://www.lebonbon.fr/paris/actu/"/>
+        <outline title="Le Bonbon | Sorties" text="Le Bonbon | Sorties" description="Le Bonbon | Sorties" type="rss" xmlUrl="https://politepol.com/fd/tjtOTQPUbkYm" htmlUrl="https://www.lebonbon.fr/paris/sorties/"/>
+        <outline title="Le Bonbon | Food &amp; drink" text="Le Bonbon | Food &amp; drink" description="Le Bonbon | Food &amp; drink" type="rss" xmlUrl="https://politepol.com/fd/Mh1z4sXcnmyC" htmlUrl="https://www.lebonbon.fr/paris/food-et-drink/"/>
+        <outline title="Le Bonbon | Tops" text="Le Bonbon | Tops" description="Le Bonbon | Tops" type="rss" xmlUrl="https://politepol.com/fd/R8MvVIBbil6P" htmlUrl="https://www.lebonbon.fr/paris/les-tops/"/>
+      </outline>
+      <outline title="VICE" text="VICE" description="VICE" type="rss" xmlUrl="https://www.vice.com/fr/rss" htmlUrl="https://www.vice.com/fr"/>
+      <outline title="NEON" text="NEON" description="NEON" type="rss" xmlUrl="https://www.neonmag.fr/feed" htmlUrl="https://www.neonmag.fr"/>
+      <outline title="ChEEk Magazine" text="ChEEk Magazine" description="ChEEk Magazine" type="rss" xmlUrl="https://cheekmagazine.fr/feed/" htmlUrl="https://cheekmagazine.fr"/>
+      <outline title="Ehko" text="Ehko" description="Ehko" type="rss" xmlUrl="https://ehko.info/feed/" htmlUrl="https://ehko.info"/>
+    </outline>
+    <outline title="Nanterre" text="Nanterre" description="Nanterre" type="folder">
+      <outline title="Actualit&#xE9; - Ville de Nanterre" text="Actualit&#xE9; - Ville de Nanterre" description="Actualit&#xE9; - Ville de Nanterre" type="rss" xmlUrl="https://politepol.com/fd/7UsH6vKPGehT" htmlUrl="https://www.nanterre.fr/57-actualite.htm"/>
+      <outline title="La Gazette de la D&#xE9;fense" text="La Gazette de la D&#xE9;fense" description="La Gazette de la D&#xE9;fense" type="rss" xmlUrl="https://lagazette-ladefense.fr/feed/" htmlUrl="https://lagazette-ladefense.fr"/>
+      <outline title="Defense-92.fr" text="Defense-92.fr" description="Defense-92.fr" type="rss" xmlUrl="https://defense-92.fr/feed" htmlUrl="https://defense-92.fr"/>
+      <outline title="NanterreReseau" text="NanterreReseau" description="NanterreReseau" type="rss" xmlUrl="https://nanterrereseau.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://nanterrereseau.blogspot.com/"/>
+    </outline>
+    <outline title="Actualit&#xE9;s fran&#xE7;aises" text="Actualit&#xE9;s fran&#xE7;aises" description="Actualit&#xE9;s fran&#xE7;aises" type="folder">
+      <outline title="L'actualit&#xE9; par l'Humanite.fr" text="L'actualit&#xE9; par l'Humanite.fr" description="L'actualit&#xE9; par l'Humanite.fr" type="rss" xmlUrl="https://www.humanite.fr/rss/actu.rss" htmlUrl="https://www.humanite.fr/"/>
+      <outline title="Le Monde.fr - Actualit&#xE9;s et Infos en France et dans le monde" text="Le Monde.fr - Actualit&#xE9;s et Infos en France et dans le monde" description="Le Monde.fr - Actualit&#xE9;s et Infos en France et dans le monde" type="rss" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+      <outline title="Liberation - A la une sur Lib&#xE9;ration" text="Liberation - A la une sur Lib&#xE9;ration" description="Liberation - A la une sur Lib&#xE9;ration" type="atom" xmlUrl="http://rss.liberation.fr/rss/latest/" htmlUrl="https://www.liberation.fr/rss/latest/"/>
+      <outline title="Le Figaro - Actualit&#xE9; en direct et informations en continu" text="Le Figaro - Actualit&#xE9; en direct et informations en continu" description="Le Figaro - Actualit&#xE9; en direct et informations en continu" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_actualites.xml" htmlUrl="http://www.lefigaro.fr"/>
+      <outline title="Mediapart" text="Mediapart" description="Mediapart" type="rss" xmlUrl="https://www.mediapart.fr/articles/feed" htmlUrl="https://www.mediapart.fr/"/>
+      <outline title="Le Huffington Post" text="Le Huffington Post" description="Le Huffington Post" type="rss" xmlUrl="https://www.huffingtonpost.fr/rss/index.xml" htmlUrl="http://www.aol.com"/>
+      <outline title="Slate.fr" text="Slate.fr" description="Slate.fr" type="rss" xmlUrl="http://www.slate.fr/rss.xml" htmlUrl="http://www.slate.fr/rss.xml"/>
+    </outline>
+    <outline title="Id&#xE9;ologie" text="Id&#xE9;ologie" description="Id&#xE9;ologie" type="folder">
+      <outline title="revue -  Cause commune" text="revue -  Cause commune" description="revue -  Cause commune" type="rss" xmlUrl="https://www.causecommune-larevue.fr/revue.rss" htmlUrl="http://www.causecommune-larevue.fr/"/>
+      <outline title="regards.fr" text="regards.fr" description="regards.fr" type="rss" xmlUrl="http://www.regards.fr/spip.php?page=backend" htmlUrl="http://www.regards.fr/"/>
+      <outline title="FRUSTRATION" text="FRUSTRATION" description="FRUSTRATION" type="rss" xmlUrl="https://www.frustrationmagazine.fr/feed/" htmlUrl="https://www.frustrationmagazine.fr"/>
+      <outline title="Le Vent Se L&#xE8;ve" text="Le Vent Se L&#xE8;ve" description="Le Vent Se L&#xE8;ve" type="rss" xmlUrl="https://lvsl.fr/feed/" htmlUrl="https://lvsl.fr"/>
+      <outline title="Basta !" text="Basta !" description="Basta !" type="rss" xmlUrl="https://www.bastamag.net/spip.php?page=backend" htmlUrl="https://www.bastamag.net/"/>
+      <outline title="CONTRETEMPS" text="CONTRETEMPS" description="CONTRETEMPS" type="rss" xmlUrl="https://www.contretemps.eu/feed/" htmlUrl="https://www.contretemps.eu"/>
+      <outline title="P&#xE9;riode" text="P&#xE9;riode" description="P&#xE9;riode" type="rss" xmlUrl="http://revueperiode.net/feed/" htmlUrl="http://revueperiode.net"/>
+      <outline title="lundimatin" text="lundimatin" description="lundimatin" type="rss" xmlUrl="https://lundi.am/spip.php?page=backend" htmlUrl="https://lundi.am/"/>
+      <outline title="AOC media &#x2013; Analyse Opinion Critique" text="AOC media &#x2013; Analyse Opinion Critique" description="AOC media &#x2013; Analyse Opinion Critique" type="rss" xmlUrl="https://aoc.media/feed/" htmlUrl="https://aoc.media"/>
+      <outline title="Le M&#xE9;dia, une information au service du bien commun" text="Le M&#xE9;dia, une information au service du bien commun" description="Le M&#xE9;dia, une information au service du bien commun" type="rss" xmlUrl="https://api.lemediatv.fr/rss.xml" htmlUrl="https://lemediatv.fr"/>
+    </outline>
+    <outline title="Administration" text="Administration" description="Administration" type="folder">
+      <outline title="Public" text="Public" description="Public" type="folder">
+        <outline title="Travaux du CESE" text="Travaux du CESE" description="Travaux du CESE" type="rss" xmlUrl="https://www.lecese.fr/rss/flux/travaux" htmlUrl="https://www.lecese.fr/"/>
+        <outline title="France Strat&#xE9;gie - Laboratoire d&#x2019;id&#xE9;es public" text="France Strat&#xE9;gie - Laboratoire d&#x2019;id&#xE9;es public" description="France Strat&#xE9;gie - Laboratoire d&#x2019;id&#xE9;es public" type="rss" xmlUrl="https://www.strategie.gouv.fr/rss.xml" htmlUrl="https://www.strategie.gouv.fr/rss.xml"/>
+        <outline title="Hc&#xE9;res" text="Hc&#xE9;res" description="Hc&#xE9;res" type="rss" xmlUrl="https://www.hceres.fr/fr/publications.xml" htmlUrl="https://www.hceres.fr/fr/publications.xml?categories=All"/>
+        <outline title="Haut Conseil &#xE0; l'&#xC9;galit&#xE9; entre les femmes et les hommes" text="Haut Conseil &#xE0; l'&#xC9;galit&#xE9; entre les femmes et les hommes" description="Haut Conseil &#xE0; l'&#xC9;galit&#xE9; entre les femmes et les hommes" type="rss" xmlUrl="http://www.haut-conseil-egalite.gouv.fr/rss_contenu_thematique.html" htmlUrl="https://www.haut-conseil-egalite.gouv.fr/"/>
+      </outline>
+      <outline title="Institut Montaigne" text="Institut Montaigne" description="Institut Montaigne" type="rss" xmlUrl="https://www.institutmontaigne.org/rss.xml" htmlUrl="https://www.institutmontaigne.org/"/>
+      <outline title="Institut Rousseau" text="Institut Rousseau" description="Institut Rousseau" type="rss" xmlUrl="https://www.institut-rousseau.fr/feed/" htmlUrl="https://www.institut-rousseau.fr"/>
+      <outline title="Fondation Gabriel P&#xE9;ri" text="Fondation Gabriel P&#xE9;ri" description="Fondation Gabriel P&#xE9;ri" type="rss" xmlUrl="https://gabrielperi.fr/feed/" htmlUrl="https://gabrielperi.fr"/>
+      <outline title="SILO" text="SILO" description="SILO" type="rss" xmlUrl="https://silogora.org/feed/" htmlUrl="https://silogora.org"/>
+      <outline title="Nos productions | Fondation Jean-Jaur&#xE8;s" text="Nos productions | Fondation Jean-Jaur&#xE8;s" description="Nos productions | Fondation Jean-Jaur&#xE8;s" type="rss" xmlUrl="https://politepol.com/fd/g432qYzHxd2q" htmlUrl="https://jean-jaures.org/nos-productions"/>
+      <outline title="Terra Nova | Les publications" text="Terra Nova | Les publications" description="Terra Nova | Les publications" type="rss" xmlUrl="https://politepol.com/fd/5iNXWTDvYZ8M" htmlUrl="http://tnova.fr/publications"/>
+      <outline title="Fondapol" text="Fondapol" description="Fondapol" type="rss" xmlUrl="http://www.fondapol.org/feed/" htmlUrl="http://www.fondapol.org"/>
+      <outline title="M&#xE9;tropolitiques" text="M&#xE9;tropolitiques" description="M&#xE9;tropolitiques" type="rss" xmlUrl="https://www.metropolitiques.eu/spip.php?page=backend" htmlUrl="https://www.metropolitiques.eu/"/>
+    </outline>
+    <outline title="&#xC9;conomie" text="&#xC9;conomie" description="&#xC9;conomie" type="folder">
+      <outline title="CEPII" text="CEPII" description="CEPII" type="rss" xmlUrl="http://www.cepii.fr/CEPII/rss/RSSAll.asp" htmlUrl="http://www.cepii.fr/"/>
+      <outline title="Visual Capitalist" text="Visual Capitalist" description="Visual Capitalist" type="rss" xmlUrl="https://www.visualcapitalist.com/feed/" htmlUrl="https://www.visualcapitalist.com"/>
+      <outline title="Travailler au Futur" text="Travailler au Futur" description="Travailler au Futur" type="rss" xmlUrl="https://travailleraufutur.fr/feed/" htmlUrl="https://travailleraufutur.fr"/>
+      <outline title="CADTM" text="CADTM" description="CADTM" type="rss" xmlUrl="https://www.cadtm.org/spip.php?page=backend-fr" htmlUrl="https://www.cadtm.org/"/>
+      <outline title="Attac France" text="Attac France" description="Attac France" type="rss" xmlUrl="https://france.attac.org/spip.php?page=backend" htmlUrl="https://france.attac.org/"/>
+      <outline title="Les &#xC9;conomistes Atterr&#xE9;s - Nous pensons que d'autres politiques &#xE9;conomiques sont possibles" text="Les &#xC9;conomistes Atterr&#xE9;s - Nous pensons que d'autres politiques &#xE9;conomiques sont possibles" description="Les &#xC9;conomistes Atterr&#xE9;s - Nous pensons que d'autres politiques &#xE9;conomiques sont possibles" type="rss" xmlUrl="http://www.atterres.org/rss.xml" htmlUrl="http://www.atterres.org/rss.xml?type_op=in&amp;type=article"/>
+      <outline title="Le blog de Jean-Marie Harribey" text="Le blog de Jean-Marie Harribey" description="Le blog de Jean-Marie Harribey" type="rss" xmlUrl="https://blogs.alternatives-economiques.fr/user/48/rss" htmlUrl="https://blogs.alternatives-economiques.fr/"/>
+      <outline title="economie.org &#x2013; Le site de Beno&#xEE;t Borrits sur la d&#xE9;mocratie &#xE9;conomique" text="economie.org &#x2013; Le site de Beno&#xEE;t Borrits sur la d&#xE9;mocratie &#xE9;conomique" description="economie.org &#x2013; Le site de Beno&#xEE;t Borrits sur la d&#xE9;mocratie &#xE9;conomique" type="rss" xmlUrl="https://www.economie.org/feed/" htmlUrl="https://www.economie.org"/>
+      <outline title="Regards Crois&#xE9;s sur l'&#xC9;conomie" text="Regards Crois&#xE9;s sur l'&#xC9;conomie" description="Regards Crois&#xE9;s sur l'&#xC9;conomie" type="rss" xmlUrl="https://blogs.alternatives-economiques.fr/user/139/rss" htmlUrl="https://blogs.alternatives-economiques.fr/"/>
+    </outline>
+    <outline title="Industrie" text="Industrie" description="Industrie" type="folder">
+      <outline title="ASN - Actualit&#xE9;s de l'Autorit&#xE9; de s&#xFB;ret&#xE9; nucl&#xE9;aire" text="ASN - Actualit&#xE9;s de l'Autorit&#xE9; de s&#xFB;ret&#xE9; nucl&#xE9;aire" description="ASN - Actualit&#xE9;s de l'Autorit&#xE9; de s&#xFB;ret&#xE9; nucl&#xE9;aire" type="rss" xmlUrl="https://www.asn.fr/rss/feed/actu_asn" htmlUrl="https://www.asn.fr/"/>
+      <outline title="IAEA Top News" text="IAEA Top News" description="IAEA Top News" type="rss" xmlUrl="https://www.iaea.org/fr/feeds/topnews" htmlUrl="https://www.iaea.org/fr"/>
+      <outline title="Le Monde de l'Energie" text="Le Monde de l'Energie" description="Le Monde de l'Energie" type="rss" xmlUrl="https://www.lemondedelenergie.com/feed/" htmlUrl="https://www.lemondedelenergie.com"/>
+      <outline title="L'EnerGeek" text="L'EnerGeek" description="L'EnerGeek" type="rss" xmlUrl="https://lenergeek.com/feed/" htmlUrl="https://lenergeek.com"/>
+      <outline title="Actualit&#xE9;s Ineris.fr" text="Actualit&#xE9;s Ineris.fr" description="Actualit&#xE9;s Ineris.fr" type="rss" xmlUrl="https://www.ineris.fr/fr/flux-rss" htmlUrl="http://www.ineris.fr/fr/news-feed/ineris.fr"/>
+      <outline title="Connaissances des &#xE9;nergies - TOUTES LES &#xC9;NERGIES EN LIBRE ACC&#xC8;S" text="Connaissances des &#xE9;nergies - TOUTES LES &#xC9;NERGIES EN LIBRE ACC&#xC8;S" description="Connaissances des &#xE9;nergies - TOUTES LES &#xC9;NERGIES EN LIBRE ACC&#xC8;S" type="rss" xmlUrl="https://www.connaissancedesenergies.org/rss.xml" htmlUrl="https://www.connaissancedesenergies.org/"/>
+      <outline title="IRSN Actualit&#xE9;s - Flux RSS" text="IRSN Actualit&#xE9;s - Flux RSS" description="IRSN Actualit&#xE9;s - Flux RSS" type="rss" xmlUrl="https://www.irsn.fr/FR/Pages/RSSFeed.aspx?t=actu" htmlUrl="https://www.irsn.fr/FR/Actualites_presse/Actualites/Pages/actualite.aspx?nv=t"/>
+      <outline title="Progressistes" text="Progressistes" description="Progressistes" type="rss" xmlUrl="https://politepol.com/fd/UZJiYSDW6lqp" htmlUrl="https://revue-progressistes.org/category/rubriques-secondaires/au-fil-de-leau/actualites/"/>
+      <outline title="Usine Digitale - Actualit&#xE9;s &#xE0; la une" text="Usine Digitale - Actualit&#xE9;s &#xE0; la une" description="Usine Digitale - Actualit&#xE9;s &#xE0; la une" type="rss" xmlUrl="https://www.usine-digitale.fr/rss" htmlUrl="https://www.usine-digitale.fr"/>
+      <outline title="Le monde de l'informatique" text="Le monde de l'informatique" description="Le monde de l'informatique" type="rss" xmlUrl="https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml" htmlUrl="https://www.lemondeinformatique.fr/flux-rss//rss.xml"/>
+    </outline>
+    <outline title="Environnement" text="Environnement" description="Environnement" type="folder">
+      <outline title="Blogs" text="Blogs" description="Blogs" type="folder">
+        <outline title="{Sciences&#xB2;}" text="{Sciences&#xB2;}" description="{Sciences&#xB2;}" type="rss" xmlUrl="https://www.lemonde.fr/blog/huet/feed/" htmlUrl="https://www.lemonde.fr/blog/huet"/>
+        <outline title="Jean-Marc Jancovici" text="Jean-Marc Jancovici" description="Jean-Marc Jancovici" type="rss" xmlUrl="https://jancovici.com/feed/" htmlUrl="https://jancovici.com"/>
+      </outline>
+      <outline title="La fabrique &#xE9;cologique" text="La fabrique &#xE9;cologique" description="La fabrique &#xE9;cologique" type="rss" xmlUrl="https://www.lafabriqueecologique.fr/feed/" htmlUrl="https://www.lafabriqueecologique.fr"/>
+      <outline title="The Shift Project" text="The Shift Project" description="The Shift Project" type="rss" xmlUrl="https://theshiftproject.org/feed/" htmlUrl="https://theshiftproject.org"/>
+      <outline title="Reporterre, le quotidien de l'&#xE9;cologie" text="Reporterre, le quotidien de l'&#xE9;cologie" description="Reporterre, le quotidien de l'&#xE9;cologie" type="rss" xmlUrl="https://reporterre.net/spip.php?page=backend-simple" htmlUrl="https://reporterre.net/"/>
+      <outline title="Les Amis de la Terre" text="Les Amis de la Terre" description="Les Amis de la Terre" type="rss" xmlUrl="https://www.amisdelaterre.org/feed/" htmlUrl="https://www.amisdelaterre.org"/>
+      <outline title="Haut Conseil pour le Climat" text="Haut Conseil pour le Climat" description="Haut Conseil pour le Climat" type="rss" xmlUrl="https://www.hautconseilclimat.fr/feed/" htmlUrl="https://www.hautconseilclimat.fr"/>
+      <outline title="GIEC" text="GIEC" description="GIEC" type="rss" xmlUrl="https://www.ipcc.ch/feed/" htmlUrl="https://www.ipcc.ch"/>
+      <outline title="Agence europ&#xE9;enne pour l'environnement" text="Agence europ&#xE9;enne pour l'environnement" description="Agence europ&#xE9;enne pour l'environnement" type="rss" xmlUrl="https://www.eea.europa.eu/fr/RSS" htmlUrl="https://www.eea.europa.eu/fr"/>
+    </outline>
+    <outline title="International" text="International" description="International" type="folder">
+      <outline title="IRIS" text="IRIS" description="IRIS" type="rss" xmlUrl="https://www.iris-france.org/feed/" htmlUrl="https://www.iris-france.org"/>
+      <outline title="FRS (@FRS_org) | Twitter" text="FRS (@FRS_org) | Twitter" description="FRS (@FRS_org) | Twitter" type="rss" xmlUrl="https://rss.app/feeds/m90aGeebS3pAy4oc.xml" htmlUrl="https://mobile.twitter.com/frs_org"/>
+      <outline title="IRSEM (@IRSEM1) | Twitter" text="IRSEM (@IRSEM1) | Twitter" description="IRSEM (@IRSEM1) | Twitter" type="rss" xmlUrl="https://rss.app/feeds/mk0A8T6Ibuy0gXqj.xml" htmlUrl="https://mobile.twitter.com/IRSEM1"/>
+      <outline title="Recherches internationales : les chroniques" text="Recherches internationales : les chroniques" description="Recherches internationales : les chroniques" type="rss" xmlUrl="https://politepol.com/fd/kNkyEG7lPAkA" htmlUrl="https://www.recherches-internationales.fr/chroniques.html"/>
+      <outline title="IFRI - Institut fran&#xE7;ais des relations internationales" text="IFRI - Institut fran&#xE7;ais des relations internationales" description="IFRI - Institut fran&#xE7;ais des relations internationales" type="rss" xmlUrl="https://www.ifri.org/rss.xml" htmlUrl="https://www.ifri.org"/>
+      <outline title="Telos - Agence Intellectuelle" text="Telos - Agence Intellectuelle" description="Telos - Agence Intellectuelle" type="rss" xmlUrl="https://www.telos-eu.com/fr/rss.xml" htmlUrl="https://www.telos-eu.com"/>
+      <outline title="Le Monde diplomatique" text="Le Monde diplomatique" description="Le Monde diplomatique" type="rss" xmlUrl="https://www.monde-diplomatique.fr/rss/" htmlUrl="https://www.monde-diplomatique.fr/"/>
+      <outline title="Inprecor. Derniers articles." text="Inprecor. Derniers articles." description="Inprecor. Derniers articles." type="rss" xmlUrl="http://www.inprecor.fr/derniers-articles.xml" htmlUrl="http://www.inprecor.fr"/>
+      <outline title="Le Monde en Commun" text="Le Monde en Commun" description="Le Monde en Commun" type="rss" xmlUrl="https://lemondeencommun.info/feed/" htmlUrl="https://lemondeencommun.info"/>
+      <outline title="ritimo" text="ritimo" description="ritimo" type="rss" xmlUrl="https://www.ritimo.org/spip.php?page=backend" htmlUrl="https://www.ritimo.org/"/>
+    </outline>
+    <outline title="Europe" text="Europe" description="Europe" type="folder">
+      <outline title="Actualit&#xE9;s - Fondation Robert Schuman" text="Actualit&#xE9;s - Fondation Robert Schuman" description="Actualit&#xE9;s - Fondation Robert Schuman" type="rss" xmlUrl="https://www.robert-schuman.eu/fr/rss/actualites" htmlUrl="https://www.robert-schuman.eu/"/>
+      <outline title="Publications - Confrontations Europe" text="Publications - Confrontations Europe" description="Publications - Confrontations Europe" type="rss" xmlUrl="https://politepol.com/fd/jTrX0CoTQXvy" htmlUrl="http://confrontations.org/toutes-les-publications/"/>
+      <outline title="Conseil de l'Europe" text="Conseil de l'Europe" description="Conseil de l'Europe" type="rss" xmlUrl="http://www.assembly.coe.int/rss/rss.aspx?cat=all&amp;size=20&amp;lang=fr-fr&amp;title=Tous+les+th%c3%a8mes&amp;rssdesc=" htmlUrl="http://www.assembly.coe.int/rss/rss.aspx?cat=all&amp;size=20&amp;lang=fr-fr&amp;title=Tous+les+th&#xE8;mes&amp;rssdesc="/>
+      <outline title="Communiqu&#xE9;s de presse - Parlement europ&#xE9;en" text="Communiqu&#xE9;s de presse - Parlement europ&#xE9;en" description="Communiqu&#xE9;s de presse - Parlement europ&#xE9;en" type="rss" xmlUrl="http://www.europarl.europa.eu/rss/doc/press-releases/fr.xml" htmlUrl="https://www.europarl.europa.eu/news/fr"/>
+      <outline title="Party of the European Left" text="Party of the European Left" description="Party of the European Left" type="rss" xmlUrl="https://www.european-left.org/feed/" htmlUrl="https://www.european-left.org"/>
+      <outline title="GUE/NGL" text="GUE/NGL" description="GUE/NGL" type="rss" xmlUrl="https://www.guengl.eu/feed/" htmlUrl="https://www.guengl.eu"/>
+      <outline title="Le Courrier des Balkans" text="Le Courrier des Balkans" description="Le Courrier des Balkans" type="rss" xmlUrl="https://www.courrierdesbalkans.fr/spip.php?page=backend" htmlUrl="https://www.courrierdesbalkans.fr/"/>
+      <outline title="Grey Britain" text="Grey Britain" description="Grey Britain" type="rss" xmlUrl="https://www.grey-britain.net/feed/" htmlUrl="https://www.grey-britain.net"/>
+    </outline>
+    <outline title="Afrique, Maghreb &amp; Moyen-Orient" text="Afrique, Maghreb &amp; Moyen-Orient" description="Afrique, Maghreb &amp; Moyen-Orient" type="folder">
+      <outline title="Orient XXI" text="Orient XXI" description="Orient XXI" type="rss" xmlUrl="https://orientxxi.info/?page=backend&amp;lang=fr" htmlUrl="https://orientxxi.info/"/>
+      <outline title="IPEMED - Publications" text="IPEMED - Publications" description="IPEMED - Publications" type="rss" xmlUrl="https://politepol.com/fd/IbLzrQQcv4eU" htmlUrl="http://www.ipemed.coop/fr/publications-r17/"/>
+      <outline title="Survie" text="Survie" description="Survie" type="rss" xmlUrl="https://survie.org/spip.php?page=backend" htmlUrl="https://survie.org/"/>
+    </outline>
+    <outline title="Chine &amp; Russie" text="Chine &amp; Russie" description="Chine &amp; Russie" type="folder">
+      <outline title="RT en fran&#xE7;ais" text="RT en fran&#xE7;ais" description="RT en fran&#xE7;ais" type="rss" xmlUrl="https://francais.rt.com/rss" htmlUrl="https://francais.rt.com"/>
+      <outline title="QuestionChine.net" text="QuestionChine.net" description="QuestionChine.net" type="rss" xmlUrl="https://feeds.feedburner.com/questionchine" htmlUrl="https://www.questionchine.net/"/>
+    </outline>
+    <outline title="Gauche politique" text="Gauche politique" description="Gauche politique" type="folder">
+      <outline title="Groupes parlementaires" text="Groupes parlementaires" description="Groupes parlementaires" type="folder">
+        <outline title="Groupe Communiste, R&#xE9;publicain, Citoyen et &#xC9;cologiste" text="Groupe Communiste, R&#xE9;publicain, Citoyen et &#xC9;cologiste" description="Groupe Communiste, R&#xE9;publicain, Citoyen et &#xC9;cologiste" type="rss" xmlUrl="https://senateurscrce.fr/spip.php?page=backend" htmlUrl="https://senateurscrce.fr/"/>
+        <outline title="Groupe de la gauche d&#xE9;mocrate et R&#xE9;publicaine" text="Groupe de la gauche d&#xE9;mocrate et R&#xE9;publicaine" description="Groupe de la gauche d&#xE9;mocrate et R&#xE9;publicaine" type="rss" xmlUrl="http://www.groupe-communiste.assemblee-nationale.fr/spip.php?page=backend" htmlUrl="http://www.groupe-communiste.assemblee-nationale.fr/"/>
+      </outline>
+      <outline title="Actualit&#xE9;s - Site Internet du P.C.F." text="Actualit&#xE9;s - Site Internet du P.C.F." description="Actualit&#xE9;s - Site Internet du P.C.F." type="rss" xmlUrl="https://politepol.com/fd/LYcb3GD0nCRG" htmlUrl="http://www.pcf.fr/actualites"/>
+      <outline title="PCF International" text="PCF International" description="PCF International" type="rss" xmlUrl="https://www.pcf.fr/secteur_international/rss/298963" htmlUrl="http://international.pcf.fr/rss"/>
+      <outline title="Clart&#xE9;" text="Clart&#xE9;" description="Clart&#xE9;" type="rss" xmlUrl="https://clarte-journal.fr/rss/" htmlUrl="https://clarte-journal.fr/"/>
+      <outline title="Pierre Laurent - Le Temps du Commun" text="Pierre Laurent - Le Temps du Commun" description="Pierre Laurent - Le Temps du Commun" type="rss" xmlUrl="http://www.pierrelaurent.org/feed/" htmlUrl="http://www.pierrelaurent.org"/>
+      <outline title="Le fil des communs" text="Le fil des communs" description="Le fil des communs" type="rss" xmlUrl="https://lefildescommuns.fr/feed/" htmlUrl="https://lefildescommuns.fr"/>
+      <outline title="Jean-Luc M&#xE9;lenchon" text="Jean-Luc M&#xE9;lenchon" description="Jean-Luc M&#xE9;lenchon" type="rss" xmlUrl="https://melenchon.fr/feed/" htmlUrl="https://melenchon.fr"/>
+      <outline title="L'insoumission" text="L'insoumission" description="L'insoumission" type="rss" xmlUrl="https://linsoumission.fr/feed/" htmlUrl="https://linsoumission.fr"/>
+      <outline title="Initiatives Capitalexit" text="Initiatives Capitalexit" description="Initiatives Capitalexit" type="rss" xmlUrl="https://capitalexit.org/index.php/feed/" htmlUrl="https://capitalexit.org"/>
+      <outline title="Nos Lendemains" text="Nos Lendemains" description="Nos Lendemains" type="rss" xmlUrl="http://noslendemains.fr/feed/" htmlUrl="http://noslendemains.fr"/>
+    </outline>
+    <outline title="Institutions" text="Institutions" description="Institutions" type="folder">
+      <outline title="Elysee" text="Elysee" description="Elysee" type="rss" xmlUrl="https://www.elysee.fr/feed" htmlUrl="https://www.elysee.fr/elysee"/>
+      <outline title="Minist&#xE8;re des Solidarit&#xE9;s et de la Sant&#xE9;" text="Minist&#xE8;re des Solidarit&#xE9;s et de la Sant&#xE9;" description="Minist&#xE8;re des Solidarit&#xE9;s et de la Sant&#xE9;" type="rss" xmlUrl="https://solidarites-sante.gouv.fr/spip.php?page=backend" htmlUrl="http://solidarites-sante.gouv.fr/"/>
+      <outline title="Gouvernement.fr - Toute l'actualit&#xE9;" text="Gouvernement.fr - Toute l'actualit&#xE9;" description="Gouvernement.fr - Toute l'actualit&#xE9;" type="rss" xmlUrl="https://www.gouvernement.fr/rss.xml" htmlUrl="https://www.gouvernement.fr"/>
+      <outline title="Secr&#xE9;tariat d'Etat charg&#xE9; de l'&#xE9;galit&#xE9; entre les femmes et les hommes et de la lutte contre les discriminations" text="Secr&#xE9;tariat d'Etat charg&#xE9; de l'&#xE9;galit&#xE9; entre les femmes et les hommes et de la lutte contre les discriminations" description="Secr&#xE9;tariat d'Etat charg&#xE9; de l'&#xE9;galit&#xE9; entre les femmes et les hommes et de la lutte contre les discriminations" type="rss" xmlUrl="https://www.egalite-femmes-hommes.gouv.fr/feed/" htmlUrl="https://www.egalite-femmes-hommes.gouv.fr"/>
+      <outline title="Minist&#xE8;re de la Transition &#xE9;cologique et solidaire - actualit&#xE9;s" text="Minist&#xE8;re de la Transition &#xE9;cologique et solidaire - actualit&#xE9;s" description="Minist&#xE8;re de la Transition &#xE9;cologique et solidaire - actualit&#xE9;s" type="rss" xmlUrl="https://www.ecologique-solidaire.gouv.fr/rss_actualites.xml" htmlUrl="https://www.ecologique-solidaire.gouv.fr/rss_actualites.xml"/>
+      <outline title="Enseignementsup-recherche.gouv.fr" text="Enseignementsup-recherche.gouv.fr" description="Enseignementsup-recherche.gouv.fr" type="rss" xmlUrl="https://www.enseignementsup-recherche.gouv.fr/rid821/journal-des-mises-en-ligne.rss?xtdate=20190907" htmlUrl="http://www.enseignementsup-recherche.gouv.fr"/>
+      <outline title="Fil D&#xE9;fense" text="Fil D&#xE9;fense" description="Fil D&#xE9;fense" type="rss" xmlUrl="https://www.defense.gouv.fr/dynrss/feed/2205" htmlUrl="https://www.defense.gouv.fr/actualites/fil-defense"/>
+      <outline title="France-Diplomatie - Minist&#xE8;re de l'Europe et des Affaires &#xE9;trang&#xE8;res - Actualit&#xE9;s" text="France-Diplomatie - Minist&#xE8;re de l'Europe et des Affaires &#xE9;trang&#xE8;res - Actualit&#xE9;s" description="France-Diplomatie - Minist&#xE8;re de l'Europe et des Affaires &#xE9;trang&#xE8;res - Actualit&#xE9;s" type="rss" xmlUrl="https://www.diplomatie.gouv.fr/spip.php?page=backend-fd" htmlUrl="https://www.diplomatie.gouv.fr?xtor=RSS-1/"/>
+    </outline>
+    <outline title="Blogs divers" text="Blogs divers" description="Blogs divers" type="folder">
+      <outline title="La preuve du pudding" text="La preuve du pudding" description="La preuve du pudding" type="rss" xmlUrl="https://la-preuve-du-pudding.fr/feed/" htmlUrl="https://la-preuve-du-pudding.fr"/>
+      <outline title="Le blog de Descartes" text="Le blog de Descartes" description="Le blog de Descartes" type="rss" xmlUrl="https://descartes-blog.fr/feed/" htmlUrl="https://descartes-blog.fr"/>
+      <outline title="hemisphere-gauche.blogs.liberation.fr - Derniers articles" text="hemisphere-gauche.blogs.liberation.fr - Derniers articles" description="hemisphere-gauche.blogs.liberation.fr - Derniers articles" type="rss" xmlUrl="http://hemisphere-gauche.blogs.liberation.fr/feeds/" htmlUrl="http://hemisphere-gauche.blogs.liberation.fr/"/>
+      <outline title="Le blog d'Ivan" text="Le blog d'Ivan" description="Le blog d'Ivan" type="rss" xmlUrl="http://www.ivan2015.com/rss" htmlUrl="http://www.ivan2015.com/"/>
+      <outline title="Herv&#xE9; Brahmy" text="Herv&#xE9; Brahmy" description="Herv&#xE9; Brahmy" type="rss" xmlUrl="https://hervebramy.wordpress.com/feed/" htmlUrl="https://hervebramy.wordpress.com"/>
+      <outline title="Caroline De Haas | Le Club de Mediapart" text="Caroline De Haas | Le Club de Mediapart" description="Caroline De Haas | Le Club de Mediapart" type="rss" xmlUrl="https://politepol.com/fd/gmRtfyoYMwzs" htmlUrl="https://blogs.mediapart.fr/carolinedehaas/blog"/>
+      <outline title="Le blog de Philippe Marli&#xE8;re | Le Club de Mediapart" text="Le blog de Philippe Marli&#xE8;re | Le Club de Mediapart" description="Le blog de Philippe Marli&#xE8;re | Le Club de Mediapart" type="rss" xmlUrl="https://politepol.com/fd/2w9ltMDAkO3L" htmlUrl="https://blogs.mediapart.fr/philippe-marliere/blog"/>
+      <outline title="Patrice Leclerc Gennevilliers" text="Patrice Leclerc Gennevilliers" description="Patrice Leclerc Gennevilliers" type="rss" xmlUrl="https://patrice-leclerc.org/feed/" htmlUrl="https://patrice-leclerc.org"/>
+      <outline title="jacquesfath.international" text="jacquesfath.international" description="jacquesfath.international" type="rss" xmlUrl="https://jacquesfath.international/feed/" htmlUrl="https://jacquesfath.international"/>
+      <outline title="Le Blog de Patrick Le Hyaric" text="Le Blog de Patrick Le Hyaric" description="Le Blog de Patrick Le Hyaric" type="rss" xmlUrl="http://patrick-le-hyaric.fr/feed/" htmlUrl="http://patrick-le-hyaric.fr"/>
+      <outline title="Jean-Emmanuel Ducoin" text="Jean-Emmanuel Ducoin" description="Jean-Emmanuel Ducoin" type="atom" xmlUrl="https://larouetournehuma.blogspot.com/feeds/posts/default" htmlUrl="https://larouetournehuma.blogspot.com/"/>
+      <outline title="blog-olivier-mayer.jimdo.com Blog Feed" text="blog-olivier-mayer.jimdo.com Blog Feed" description="blog-olivier-mayer.jimdo.com Blog Feed" type="rss" xmlUrl="https://blog-olivier-mayer.jimdo.com/rss/blog" htmlUrl="https://blog-olivier-mayer.jimdo.com/"/>
+      <outline title="En Avant Le Manifeste" text="En Avant Le Manifeste" description="En Avant Le Manifeste" type="rss" xmlUrl="https://enavantlemanifeste.fr/feed/" htmlUrl="https://enavantlemanifeste.fr"/>
+      <outline title="Maxime Cochard" text="Maxime Cochard" description="Maxime Cochard" type="rss" xmlUrl="https://maximecochard.fr/feed/" htmlUrl="https://maximecochard.fr"/>
+    </outline>
+  </body>
+</opml>
